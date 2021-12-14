@@ -1,6 +1,6 @@
 package com.openbootcamp;
 
-public class EjercicioUno {
+public class EjercicioSesionUno {
 
     public static void main(String[] args) {
 
